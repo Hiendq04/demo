@@ -1,0 +1,11 @@
+{
+    "name": "dqhie/demo",
+    "autoload": {
+        "psr-4": {
+            "Dqhie\\Demo\\": "app/"
+        }
+    },
+    "require": {
+        "phroute/phroute": "^2.2"
+    }
+}
